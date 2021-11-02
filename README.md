@@ -1,6 +1,24 @@
 # iisgm-bioinfo-test
 
-Aptitude test for IiSGM Microbial Genomics candidates
+## Aptitude test for IiSGM Microbial Genomics candidates
+
+#### Candidate: Rosalía Palomino Cabrera
+
+#### Last update: 2.11.2021
+
+## Description
+
+- data: The original 26 *M. tuberculosis* VCF files.
+- results: Contains the presence/absence matrix and the dendrogram created for this test. 
+- src: Folder with the python file coding all the functions used in the Jupyter Notebook.
+- iisgm-bioinfo-test_RosaliaPalomino.ipynb: Jupyter Notebook implementing the iterations proposed. The strategies followed to fulfil the tasks are also explained in this file.
+
+## Disclaimer
+
+3 files present in the master have been removed from this branch:
+- final.ipynb
+- script_final.py
+- data/iisgm-bioinfo-test-AnadelRamo.ipynb
 
 ## Instructions
 
